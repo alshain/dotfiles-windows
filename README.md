@@ -41,6 +41,11 @@ Startmenu: "Select which icons appear on the taskbar"
 
 ##### Disable screenshot sound
 
+#### Disable uploads globally
+
+Application Settings -> Advanced -> Upload: DisableUpload: True
+
+![Sharex Disable uploads via Application Settings -> Advanced -> Upload](img/sharex_disable_upload.png)
 
 
 Screenshots:
