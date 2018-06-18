@@ -25,6 +25,18 @@ Startmenu: "Select which icons appear on the taskbar"
 
 ![7+ Taskbar Tweaker](img/7_plus_taskbar_tweaker.png)
 
+### ClickMonitorDDC
+
+#### Disable constrast and volume systray icons
+
+- Open the settings via rightclick in the systray on one of the number icons.
+- Disable the volume and contrast systray icons
+
+![Right-Click in systray -> Settings](img/clickmonitor_ddc_1.png)
+
+
+![Disable contrast and volume](img/clickmonitorddc_2_settings.png)
+
 ### ShareX
 
 ##### Disable screenshot sound
