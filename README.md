@@ -47,7 +47,7 @@ Startmenu: "Select which icons appear on the taskbar"
 - Open the settings via rightclick in the systray on one of the number icons.
 - Disable the volume and contrast systray icons
 
-![Right-Click in systray -> Settings](img/clickmonitor_ddc_1.png)
+![Right-Click in systray -> Settings](img/clickmonitorddc_1.png)
 
 
 ![Disable contrast and volume](img/clickmonitorddc_2_settings.png)
