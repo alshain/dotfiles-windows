@@ -1,7 +1,7 @@
 # dotfiles-windows
 
 Setup
-- [Everything]
+- [Everything](https://www.voidtools.com/downloads/)
   To find files quickly
 - [TotalCommander](https://www.ghisler.com/download.htm)
 - [7+ Taskbar Tweaker](http://rammichael.com/7-taskbar-tweaker)
