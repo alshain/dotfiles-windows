@@ -17,7 +17,15 @@ Startmenu: "Select which icons appear on the taskbar"
 - Toolbox
 
 ## Customization
-#### ShareX
+### 7+ Taskbar Tweaker
+
+- Drag to reorder: Reorder Taskbar preview images with drag'n'drop to make switching between applications with WIN-NUMBER shortcuts easier.
+- Control volume when mouse is over taskbar
+- Display seconds on the tray clock
+
+![7+ Taskbar Tweaker](img/7_plus_taskbar_tweaker.png)
+
+### ShareX
 
 ##### Disable screenshot sound
 
