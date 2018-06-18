@@ -37,6 +37,14 @@ Startmenu: "Select which icons appear on the taskbar"
 
 ![Disable contrast and volume](img/clickmonitorddc_2_settings.png)
 
+### Everything
+
+- General -> UI: Full row select (easier to match up date/size with selected item)
+- General -> View: Show row mouseover
+
+![Full row select](img/everything_full_row_select.png)
+![Full row select](img/everything_show_row_mouseover.png)
+
 ### ShareX
 
 ##### Disable screenshot sound
