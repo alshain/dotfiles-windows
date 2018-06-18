@@ -1,13 +1,28 @@
 # dotfiles-windows
 
-Setup
+Manual Installation:
+- [7+ Taskbar Tweaker](http://rammichael.com/7-taskbar-tweaker) Re-arrange window thumbnails in taskbar and other tweaks.
+- [ClickMonitorDDC](http://clickmonitorddc.bplaced.net/)  Control monitor brightness via mouse wheel.
+- [TotalCommander](https://www.ghisler.com/download.htm) Dual-pane file manager.
+- [Jetbrains Toolbox](https://www.jetbrains.com/toolbox/app/) Manage Jetbrains IDEs.
+
+Via Ninite:
+
+![installer includes](img/ninite_installer_includes.png)
+
+[Download](https://ninite.com/7zip-classicstart-everything-keepass2-paint.net-sharex-sumatrapdf-vscode/)
+[Change apps](https://ninite.com/?select=7zip-classicstart-everything-keepass2-paint.net-sharex-sumatrapdf-vscode)
+
+- [7zip](https://www.7-zip.org/) Supports ZIP, RAR and many other archival formats.
+- [ClassicShell](http://www.classicshell.net/) Start menu replacement
 - [Everything](https://www.voidtools.com/downloads/)
   To find files quickly
-- [TotalCommander](https://www.ghisler.com/download.htm)
-- [7+ Taskbar Tweaker](http://rammichael.com/7-taskbar-tweaker)
-- [Jetbrains Toolbox](https://www.jetbrains.com/toolbox/app/)
-- [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader.html)
-- [Visual Studio Code](https://code.visualstudio.com/)
+- [KeePass 2](https://keepass.info/download.html) Offline password manager.
+- Paint.NET
+- [ShareX](https://getsharex.com/) Screenshot utility.
+- [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader.html) Fast PDF viewer with auto-refresh and without file locking.
+- [Visual Studio Code](https://code.visualstudio.com/) Modern code editor.
+
 
 ## Systray
 
