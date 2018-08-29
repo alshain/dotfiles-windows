@@ -86,7 +86,7 @@ Jetbrains Toolbox:
 
 Redirect wincmd.ini File: Change the registry key `IniFileName` to point to the `wincmd.ini` file from this repository.
 
-
+With PowerShell:
 ```powershell
 # Set 
 Get-ItemPropertyValue 'HKCU:\Software\Ghisler\Total Commander\' IniFileName
