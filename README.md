@@ -23,6 +23,9 @@ Via Ninite:
 - [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader.html) Fast PDF viewer with auto-refresh and without file locking.
 - [Visual Studio Code](https://code.visualstudio.com/) Modern code editor.
 
+Utilities
+
+- [WizTree](https://antibody-software.com/web/software/software/wiztree-finds-the-files-and-folders-using-the-most-disk-space-on-your-hard-drive/) Find used folder space with the speed of Everything.
 
 ## Systray
 
