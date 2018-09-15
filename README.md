@@ -4,7 +4,7 @@ Manual Installation:
 - [7+ Taskbar Tweaker](http://rammichael.com/7-taskbar-tweaker) Re-arrange window thumbnails in taskbar and other tweaks.
 - [ClickMonitorDDC](http://clickmonitorddc.bplaced.net/)  Control monitor brightness via mouse wheel.
 - [TotalCommander](https://www.ghisler.com/download.htm) Dual-pane file manager.
-- [Jetbrains Toolbox](https://www.jetbrains.com/toolbox/app/) Manage Jetbrains IDEs.
+- [JetBrains Toolbox](https://www.jetbrains.com/toolbox/app/) Manage JetBrains IDEs.
 
 Via Ninite:
 
@@ -73,7 +73,7 @@ Application Settings -> Advanced -> Upload: DisableUpload: True
 
 Screenshots:
 
-Jetbrains Toolbox:
+JetBrains Toolbox:
 
 ![Toolbox](img/toolbox.png)
 
