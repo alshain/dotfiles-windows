@@ -3,6 +3,7 @@
 Manual Installation:
 - [7+ Taskbar Tweaker](http://rammichael.com/7-taskbar-tweaker) Re-arrange window thumbnails in taskbar and other tweaks.
 - [ClickMonitorDDC](http://clickmonitorddc.bplaced.net/)  Control monitor brightness via mouse wheel.
+- [Listary](https://www.listary.com/) Make open file/folder dialogs bareable and navigate effortlessly between folders.
 - [TotalCommander](https://www.ghisler.com/download.htm) Dual-pane file manager.
 - [JetBrains Toolbox](https://www.jetbrains.com/toolbox/app/) Manage JetBrains IDEs.
 
