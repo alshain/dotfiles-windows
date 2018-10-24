@@ -64,6 +64,16 @@ Startmenu: "Select which icons appear on the taskbar"
 ![Full row select](img/everything_full_row_select.png)
 ![Full row select](img/everything_show_row_mouseover.png)
 
+### Listary
+
+2xCtrl brings up the Listary overlay by default. This interacts poorly with IntelliJ's "Run Anything" (2xCtrl), neither overlay will be shown.
+
+Adding IntelliJ to the ignored applications in Listary doesn't help, it only disables list view hooks, from what I can tell, 2xCtrl is global irrespective of the application being used.
+
+Solution: Disable Ctrl shortcut and use dedicated "Show Listary Toolbar" shortcut.
+
+![](img/listary_settings.png)
+
 ### ShareX
 
 ##### Disable screenshot sound
