@@ -80,7 +80,11 @@ Solution: Disable Ctrl shortcut and use dedicated "Show Listary Toolbar" shortcu
 
 ### ShareX
 
-##### Disable screenshot sound
+#### Disable screenshot sound
+
+Task Settings -> General -> Play sound...
+![Task Settings -> General -> Play sound...](img/sharex_disable_sound.png)
+
 
 #### Disable uploads globally
 
