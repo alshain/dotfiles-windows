@@ -6,6 +6,7 @@ Manual Installation:
 - [Listary](https://www.listary.com/) Make open file/folder dialogs bareable and navigate effortlessly between folders.
 - [TotalCommander](https://www.ghisler.com/download.htm) Dual-pane file manager.
 - [JetBrains Toolbox](https://www.jetbrains.com/toolbox/app/) Manage JetBrains IDEs.
+- [SmartGit](https://www.syntevo.com/smartgit/download/) My favorite cross-platform GIT client.
 
 Via Ninite:
 
@@ -84,6 +85,13 @@ Application Settings -> Advanced -> Upload: DisableUpload: True
 
 ![Sharex Disable uploads via Application Settings -> Advanced -> Upload](img/sharex_disable_upload.png)
 
+### SmartGit
+
+#### Always Show Working Tree and Index Nodes
+
+![](img/smartgit_clean.png)
+
+---
 
 Screenshots:
 
