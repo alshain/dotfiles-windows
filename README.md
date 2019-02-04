@@ -32,9 +32,12 @@ Utilities
 ## Systray
 
 Startmenu: "Select which icons appear on the taskbar"
-- Greenshot
 - ShareX
-- Toolbox
+- Jetbrains Toolbox
+- StableBit Scanner Notifications
+- PuTTY SSH authentication agent (Pageant)
+- Network
+- Volume
 
 ## Customization
 ### 7+ Taskbar Tweaker
